@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FoodCrave---A-food-ordering-app/static/css/main.400418b8.css",
+    "main.js": "/FoodCrave---A-food-ordering-app/static/js/main.cf83739c.js",
+    "static/media/meals.JPG": "/FoodCrave---A-food-ordering-app/static/media/meals.ae9b2a0400a11a2b401f.JPG",
+    "index.html": "/FoodCrave---A-food-ordering-app/index.html",
+    "main.400418b8.css.map": "/FoodCrave---A-food-ordering-app/static/css/main.400418b8.css.map",
+    "main.cf83739c.js.map": "/FoodCrave---A-food-ordering-app/static/js/main.cf83739c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400418b8.css",
+    "static/js/main.cf83739c.js"
+  ]
+}
